@@ -43,10 +43,3 @@ To run this project locally, you just need a modern web browser.
 - **Driver Login**: `BUS-001` / `Driver Name` / `password123`
 - **Admin Login**: `admin` / `admin_pass`
 
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
----
-
-Developed with ❤️ for the commuters of Punjab.
