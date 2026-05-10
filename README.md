@@ -1,4 +1,4 @@
-# Punjab Bus Tracker 🚌
+# Real-Time-Public-Transport-Tracking-System 🚌
 
 A modern, real-time GPS tracking system for public transportation. This application provides a seamless experience for users to track buses, view routes, and book tickets with a premium, responsive interface.
 
