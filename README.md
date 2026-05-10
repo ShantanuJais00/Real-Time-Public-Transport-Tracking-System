@@ -29,11 +29,11 @@ To run this project locally, you just need a modern web browser.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Real-Time-Public-Transport-Tracking-System.git
+   git clone https://github.com/ShantanuJais00/Real-Time-Public-Transport-Tracking-System.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd punjab-bus-tracker
+   cd Real-Time-Public-Transport-Tracking-System
    ```
 3. Open `index.html` in your browser.
 
