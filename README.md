@@ -2,7 +2,6 @@
 
 A modern, real-time GPS tracking system for public transportation in Punjab. This application provides a seamless experience for users to track buses, view routes, and book tickets with a premium, responsive interface.
 
-![Punjab Bus Tracker Preview](https://via.placeholder.com/1200x600?text=Punjab+Bus+Tracker+Interface)
 
 ## 🌟 Features
 
