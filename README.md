@@ -1,6 +1,6 @@
 # Punjab Bus Tracker 🚌
 
-A modern, real-time GPS tracking system for public transportation in Punjab. This application provides a seamless experience for users to track buses, view routes, and book tickets with a premium, responsive interface.
+A modern, real-time GPS tracking system for public transportation. This application provides a seamless experience for users to track buses, view routes, and book tickets with a premium, responsive interface.
 
 
 ## 🌟 Features
@@ -29,7 +29,7 @@ To run this project locally, you just need a modern web browser.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/punjab-bus-tracker.git
+   git clone https://github.com/your-username/Real-Time-Public-Transport-Tracking-System.git
    ```
 2. Navigate to the project directory:
    ```bash
